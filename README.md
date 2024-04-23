@@ -6,7 +6,9 @@ Soy geólogo de profesión y tengo gran interés en el área de datos, con un en
 <br>
 ### Información interesante:
 🌎Soy de Osorno, Chile, pero actualmente resido en la capital, Santiago. Nací en 1991.
+
 🎓En búsqueda de ampliar mis conocimientos, conocí el mundo de los datos y sus aristas, quedando sorprendido con todo lo que se puede realizar con ellos. Acabo de finalizar un bootcamp de Data Science, y quiero sumergirme mucho más!
+
 ⚽🎾Me encantan los deportes, especialmente fútbol y tenis, además de bailar salsa💃
 <br>
 ### 💻 Lenguajes y herramientas:
