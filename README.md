@@ -1,5 +1,6 @@
 ## Hola, soy Cristóbal 👋
 <br>
+
 #### Sobre mí 🙋:
 Soy geólogo de profesión y tengo gran interés en el área de datos, con un enfoque en los procesos de Extracción, Transformación y Carga (ETL). Busco aplicar mis conocimientos para ayudar a las organizaciones de manera práctica a alcanzar sus objetivos propuestos mediante soluciones impulsadas por datos.
 <br>
