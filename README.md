@@ -2,7 +2,7 @@
 <br>
 
 ### Sobre mí 🙋:
-Soy geólogo de profesión y tengo gran interés en el área de datos, con un enfoque en los procesos de Extracción, Transformación y Carga (ETL). Busco aplicar mis conocimientos para ayudar a las organizaciones de manera práctica a alcanzar sus objetivos propuestos mediante soluciones impulsadas por datos.
+Soy geólogo de profesión y tengo gran interés en el área de datos, con un enfoque en los procesos de Extracción, Transformación y Carga (ETL). Busco aplicar mis conocimientos para ayudar a las organizaciones de manera práctica a alcanzar sus objetivos mediante soluciones impulsadas por datos.
 <br>
 ### Información interesante:
 🌎Soy de Osorno, Chile, pero actualmente resido en la capital, Santiago. Nací en 1991.
