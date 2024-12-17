@@ -4,10 +4,10 @@
 ### Sobre mí 🙋:
 Soy geólogo de profesión y tengo gran interés en el área de datos, con un enfoque en los procesos de Extracción, Transformación y Carga (ETL). Busco aplicar mis conocimientos para ayudar a las organizaciones de manera práctica a alcanzar sus objetivos mediante soluciones impulsadas por datos.
 <br>
-### Información interesante:
+<br>
 🌎Soy de Osorno, Chile, pero actualmente resido en la capital, Santiago. Nací en 1991.
 
-🎓En búsqueda de ampliar mis conocimientos, conocí el mundo de los datos y sus aristas, quedando sorprendido con todo lo que se puede realizar con ellos. Acabo de finalizar un bootcamp de Data Science, y quiero sumergirme mucho más!
+🎓En búsqueda de ampliar mis conocimientos, conocí el mundo de los datos y sus áreas, quedando muy interesado con todo lo que se puede realizar con ellos. En esa línea, he realizado cursos de Data Science y también de Ingeniería de Datos. Actualmente estoy cursando el programa de Desarrollo de aplicaciones Backend con Python con el apoyo de Becas Capital Humano de CORFO (enlace al programa [aqui](https://www.corfo.cl/sites/becascapitalhumano/convocatorias/backend_python_2024 "aqui")) lo que sirve muchísimo para crear sistemas que trabajen y disponibilizen los datos de una organización, entre otros usos.
 
 ⚽🎾Me encantan los deportes, especialmente fútbol y tenis, además de bailar salsa💃
 <br>
@@ -16,3 +16,5 @@ Soy geólogo de profesión y tengo gran interés en el área de datos, con un en
 <br>
 ### 🌐 Contáctame:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-quiroz)
+
+📫 mi correo: cjquirozv@gmail.com
